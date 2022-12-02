@@ -1,0 +1,15 @@
+{
+    "name": "com.zoobop.inventory-system",
+    "version": "1.0.0",
+    "displayName": "Inventory System",
+    "description": "A small library that brings a simple and easy-to-use inventory system that can be extended upon to suit your needs.",
+    "unity": "2019.1",
+    "dependencies": {
+
+    },
+    "keywords": ["inventory", "system", "extension"],
+    "author": {
+        "name": "Brandon Cunningham",
+        "email": "brandonham2001@gmail.com"
+    }
+}
